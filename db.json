@@ -1,19 +1,6 @@
 {
   "todos": [
     {
-      "id": 1,
-      "server_id": 3,
-      "name": "UKOUSD",
-      "description": "Brent Crude Oil vs US Dollar",
-      "currency": "USD",
-      "type": 5,
-      "digits": 3,
-      "trade": 0,
-      "swap_long": -23.1997,
-      "swap_short": 10.5633,
-      "contract_size": 1000
-    },
-    {
       "id": 2,
       "server_id": 3,
       "name": "XAUUSD-H",
